@@ -22,7 +22,7 @@ pip install dio-desafio-pacote-processamento-imagem
 ```
 
 ## Author
-Charles
+Saul Assunção
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
